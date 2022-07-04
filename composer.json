@@ -1,0 +1,15 @@
+{
+    "name": "php/centro-medico",
+    "autoload": {
+        "psr-4": {
+            "Php\\CentroMedico\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergio León",
+            "email": "sergioleon4004@hotmail.com"
+        }
+    ],
+    "require": {}
+}
